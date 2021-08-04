@@ -1,1 +1,1 @@
-This is <a href="">Day 19</a> of my JavaScript learning project.
+This is <a href="">Day 14</a> of my JavaScript learning project.
